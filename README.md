@@ -1,2 +1,4 @@
-# kegelmanager-bugs
-Hier werden die Fehler und TODOs für kegelmanager.de gesammelt
+# Kegelmanager Fehler und Features
+
+- unter "Issues" könnt Ihr Fehler und Features einreichen, kommentieren
+- unter Projects findet Ihr den aktuellen Fortschritt des Projektes
